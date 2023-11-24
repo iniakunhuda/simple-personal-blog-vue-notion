@@ -1,0 +1,24 @@
+{
+  "name": "personal-blog-notion",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "oh-vue-icons": "^1.0.0-rc3",
+    "vue": "^3.3.8",
+    "vue-notion": "^3.0.0-beta.1",
+    "vue-router": "^4.0.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "^5.0.0"
+  }
+}
